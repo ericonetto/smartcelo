@@ -2,7 +2,8 @@
 
 Configure your .env to be like this
 
+TELEGRAM_KEY=&lt;your telegram key&gt;
 
-TELEGRAM_KEY=<your telegram key>
-CLIENT_ID=<konker user>
-CLIENT_SECRET=<konker user password>
+CLIENT_ID=&lt;konker user&gt;
+
+CLIENT_SECRET=&lt;konker user password&gt;
